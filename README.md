@@ -58,7 +58,6 @@ const david = {
   <img src="https://img.shields.io/badge/Avolites-E30613?style=for-the-badge&logoColor=white" alt="Avolites" />
   <img src="https://img.shields.io/badge/Capture-1E90FF?style=for-the-badge&logoColor=white" alt="Capture" />
   <img src="https://img.shields.io/badge/ShowKontrol-8B5CF6?style=for-the-badge&logoColor=white" alt="ShowKontrol" />
-  <img src="https://img.shields.io/badge/R27-374151?style=for-the-badge&logoColor=white" alt="R27" />
 </p>
 
 ### 🎬 Video & Visuals
