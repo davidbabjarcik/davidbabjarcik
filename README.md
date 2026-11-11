@@ -32,14 +32,41 @@ const david = {
 
 ## 🛠️ Tech stack
 
+### 💻 Code & Design
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,py,java,androidstudio,arduino,figma,ps&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,py,java,androidstudio,arduino,figma,ps&perline=11" alt="Code & design stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+### 🎧 Music & DJ
+
+<p align="center">
+  <img src="https://img.shields.io/badge/rekordbox-000000?style=for-the-badge&logo=pioneerdj&logoColor=white" alt="rekordbox" />
+  <img src="https://img.shields.io/badge/FL%20Studio-F7941D?style=for-the-badge&logoColor=white" alt="FL Studio" />
+  <img src="https://img.shields.io/badge/REAPER-6B8E23?style=for-the-badge&logoColor=white" alt="REAPER" />
+</p>
+
+### 💡 Lighting & Show control
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Avolites-E30613?style=for-the-badge&logoColor=white" alt="Avolites" />
+  <img src="https://img.shields.io/badge/Capture-1E90FF?style=for-the-badge&logoColor=white" alt="Capture" />
+  <img src="https://img.shields.io/badge/ShowKontrol-8B5CF6?style=for-the-badge&logoColor=white" alt="ShowKontrol" />
+  <img src="https://img.shields.io/badge/R27-374151?style=for-the-badge&logoColor=white" alt="R27" />
+</p>
+
+### 🎬 Video & Visuals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Resolume%20Arena-00B3A4?style=for-the-badge&logoColor=white" alt="Resolume Arena" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Insta360%20Studio-FFD400?style=for-the-badge&logo=insta360&logoColor=black" alt="Insta360 Studio" />
 </p>
 
 ## 📊 GitHub stats
