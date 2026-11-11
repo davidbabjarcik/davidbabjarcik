@@ -27,7 +27,7 @@ const david = {
 
 - 💻 Building websites and apps, from the first Figma sketch to the deployed code
 - 🎨 Into UI design and graphics: clean layouts, good typography, bold colors
-- 🎛️ Behind the decks or the lighting console when I'm not coding
+- 🎛️ Behind the decks or the lighting console when I'm not coding, as part of [**JEF Production**](https://www.jef-sp.sk/jefproduction)
 - 🌱 Always learning something new and shipping side projects
 
 ## 🛠️ Tech stack
@@ -86,6 +86,7 @@ const david = {
   <a href="https://instagram.com/david.babjarcik" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://fb.com/david.babjarcik" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://discord.gg/8150" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.jef-sp.sk/jefproduction" target="_blank"><img src="https://img.shields.io/badge/JEF%20Production-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JEF Production" /></a>
 </p>
 
 <div align="center">
